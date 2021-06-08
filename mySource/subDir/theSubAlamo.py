@@ -1,6 +1,7 @@
 import numpy as np
 
-
+newSTR = np.zeros(5)
+print(newSTR)
 
 def main():
     print("wack")
@@ -9,4 +10,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
