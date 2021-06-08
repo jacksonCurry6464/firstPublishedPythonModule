@@ -9,7 +9,7 @@ License: UNKNOWN
 Description: Python package that allows the user to use the alamo algorithm for interpolation
 Keywords: python,Alamo,Interpolation
 Platform: UNKNOWN
-Classifier: Development Status :: Testing
+Classifier: Development Status :: 3 - Alpha
 Classifier: Intended Audience :: Developers
 Classifier: Programming Language :: Python :: 3
 Classifier: Operating System :: Unix
